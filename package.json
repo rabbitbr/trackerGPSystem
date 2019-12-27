@@ -1,0 +1,13 @@
+{
+    "name": "trackerGPSystem",
+    "version": "0.0.1",
+    "description": "GPS tracker system",
+    "author": "Felipe Amorim <felipeamorim@ucl.br>",
+    "dependencies": {
+      "express": "4.17.1",
+      "socket.io": "2.3.0"
+    },
+    "devDependencies": {
+    },
+    "engine": "node >= 12.14.0"
+  }
